@@ -1,7 +1,7 @@
 # stepik_pytest_3_6
 
 # установка зависимостей.
-pip inslall requirements.txt
+pip inslall - r requirements.txt
 
 # Задание: запуск автотестов для разных языков интерфейса
 
